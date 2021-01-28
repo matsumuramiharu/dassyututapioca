@@ -1,0 +1,27 @@
+@charset "UTF-8";
+main section {
+	padding: 20px;
+}
+main h2 {
+	font-size: 40px;
+	border-bottom: solid 1px #FFFFFF;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+}
+
+@media (max-width:599px) {
+main #main_img {
+	background-image: url("../image/600600.png");
+	background-size: cover;
+	height : 100vw;
+}
+}
+
+@media(min-width:600px) {
+main #main_img {
+	background-image: url("../image/1200600.png");
+	background-position: 100% 0%;
+	height: 400px;
+}
+
+}
