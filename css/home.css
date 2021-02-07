@@ -9,13 +9,13 @@ main h2 {
 	margin-bottom: 20px;
 }
 
-@media (max-width:599px) {
+
 main #main_img {
 	background-image: url("../image/600600.png");
 	background-size: cover;
 	height : 100vw;
 }
-}
+
 
 @media(min-width:600px) {
 main #main_img {

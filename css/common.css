@@ -3,7 +3,7 @@ header {
 	background-color : chocolate;
 }
 main {
-	background-color : skyblue;
+	background-color : #DDC1A1;
 	min-height: calc(100vh-172px);
 }
 main section {
@@ -29,11 +29,13 @@ header {
 }
 header h1 {
 	font-size : 40px;
-	color: paleturquoise;
+	color: #765013;
 	padding: 20px 0px;
+    text-align: center;
 }
 main h2 {
 	font-size : 20px;
+    color: #765013;
 }
 footer {
 	padding: 20px;
@@ -41,9 +43,10 @@ footer {
 footer p {
 	font-size: 12px;
 	text-align: center;
+    color: #765013;
 }
 header {
-	background-color: hotpink;
+	background-color: #DDBE86;
 }
 header nav ul a {
 	background-color: #ddd;
