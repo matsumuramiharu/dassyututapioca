@@ -3,25 +3,25 @@ header {
 	background-color : chocolate;
 }
 main {
-	background-color : #DDC1A1;
+	background-color :#F3F3F3;
 	min-height: calc(100vh-172px);
 }
 main section {
 	padding: 20px;
 }
 body {
-	background-color: yellow;
+	background-color: #DDC1A1;
 }
 footer {
 	background-color: antiquewhite
 }
 h1 {
-	color: orange;
+	color: #FFFFFF;
 	fontsize: 80px;
 	padding: 20px 0px;
 }
 header #header_top {
-	baackground: blue;
+	baackground: #FFFFFF;
 	padding: 20px;
 }
 header {
